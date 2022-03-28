@@ -6,7 +6,8 @@ export const Button = styled.button`
     padding 10px 30px;
     background-color: #2acfcf;
     color: #ffffff;
-
+    width: 153px;
+    height: auto;
     &:hover {
         opacity: 0.9;
     }

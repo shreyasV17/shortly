@@ -7,6 +7,7 @@ import Footer from '../components/Footer';
 import BrandStatistics from '../components/BrandStatistics';
 import InputBar from '../components/InputBar';
 import ListGroup from '../components/ListGroup';
+import Banner from '../components/Banner';
 //import useLinks from '../hooks/useLinks';
 
 const theme = {
@@ -26,6 +27,7 @@ const Home = () => {
     <ThemeProvider theme = {theme}>
       <GlobalStyles />
       <Header />
+      <Banner />
       <div>
         <InputBar />
         <ListGroup />
