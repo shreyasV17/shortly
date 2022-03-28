@@ -5,7 +5,7 @@ const BrandStatistics = () => {
     return (
         <div>
             <StyledText>
-                <h1>Advanced Statistic</h1>
+                <h1>Advanced Statistics</h1>
                 <p>Track how your links are performing across the web with our advanced statistics dashboard.</p>
             </StyledText>
             <StyledBrandStatistics>
